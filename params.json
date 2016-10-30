@@ -1,0 +1,6 @@
+{
+  "name": "Cruds-withdifflanguages",
+  "tagline": "This repository contains CRUD of different languages with js validation. Tried to cover up all basic phenomenon.",
+  "body": "# CRUDS-WithDiffLanguages (Create, Read, Update, Delete)\r\n\r\nThis repository contains CRUD of different languages with js validation. Tried to cover up all basic phenomenon.\r\n\r\n### Introduction\r\n\r\nHello Friends,\r\n\r\nAs we all know that in any application with any language CRUD contains approximately 60% of the part.\r\n\r\nSo here in this repository you can find different CRUDS with validation. May be with ease of its database.\r\n\r\nIt is open for you all guys to make any update or new change in it.\r\n\r\n+ Below are the CRUDs contain in this repository\r\n\t- PHP Basic\r\n\t\r\n### Code and Examples\r\n\r\n#### 1. PHP Basic CRUD with MySql\r\n",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
